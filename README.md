@@ -1,5 +1,5 @@
 # Cafeteria_Unidad_3
-Ejecutamos el programa desde el frontend y nos aparecera un menu para iniciar sesion o en su defecto registrarse.
+Ejecutamos el programa desde el frontend y nos aparecera un menu para iniciar sesion o en su defecto registrarse. A la hora de registrarse, esta programado para que el correo tenga obligatoriamente un "." y un "@", de lo contrario no funcionara. Al igual que es obligatorio que la contrasena tenga 6 caracteres.
 
 Al iniciar sesion o regirstrarse nos muestrar 3 opciones: Ver menu, Realizar pedido e Historial de pedidos.
 
